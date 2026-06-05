@@ -11,7 +11,7 @@ function setup() {
 
   createCanvas(640, 360);
   walker = new Walker();
-  background(255);
+  background(0, 0);
 
 }
 
